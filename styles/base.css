@@ -91,7 +91,7 @@ ul{
 }
 
 .paragraph{
-  width: 100%;
+  width: 49%;
   margin: 0.625em auto;
   padding: 0.313em auto; 
   background: #F0EEEF;
@@ -99,6 +99,14 @@ ul{
 
 .paragraph h1, p{
   padding: 0.313em;
+}
+
+#left_col{
+  float: left;
+}
+
+#right_col{
+  float: right;
 }
 
 /* Footer */
