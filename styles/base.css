@@ -20,6 +20,13 @@ a:link{
   color: #000000;
 }
 
+a:hover{
+  text-decoration: underline;
+}
+
+a:visited{
+  color: #000;
+}
 
 .clear{
   clear:both;
@@ -48,7 +55,7 @@ ul{
 
 #header h1{
   float: left;
-  padding-right: 1em;
+  padding-right: .5em;
 }
  
 
@@ -184,6 +191,10 @@ ul{
 
 #contact {
   padding: .5em 1em;
+}
+
+#paragraph_contact{
+  width: 100%
 }
 
 /* Small Screen Media Queries */
