@@ -22,7 +22,7 @@ $(document).ready(function(){
 	  		 fade: true,
 	  		 arrows: true,
 	  		 accesibility: true,
-	  		 initialSlide: 1,
+	  		 initialSlide: 2,
 	  		 prevArrow: '<input type="image" class="slick-prev" id="left_button" src="imgs/back28.png" />',
 	  		 nextArrow: '<input type="image" class="slick-next" id="right_button" src="imgs/right127.png" />',
 	  		 responsive: [
