@@ -93,7 +93,7 @@ ul{
 /* Content */
 
 .main_content{
-  margin: 0.000em 1.250em 0.000em 1.250em;
+  margin: .000em 1.250em 0.000em 1.250em;
    padding: 0 0.625em;
 }
 
@@ -214,7 +214,7 @@ p{
 /* Banner */
 
 #banner{
-  height: 5.000em;
+  display: none;
 }
 
 #left_button{
@@ -224,6 +224,21 @@ p{
 #right_button{
   height: 1.5em;
 }
+
+#left_col{
+  width: 100%;
+ float: none;
+}
+
+#right_col{
+  width: 100%;
+  float: none;
+}
+
+#footer{
+  height: 2em;
+}
+
   
 }
 
